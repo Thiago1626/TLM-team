@@ -225,9 +225,9 @@ Executar:
 uvicorn main:app --reload --port 8000
 ```
 
-API: http://localhost:8000
+API:
 
-Documentação: http://localhost:8000/docs
+Documentação:
 
 ### 3. Frontend
 
