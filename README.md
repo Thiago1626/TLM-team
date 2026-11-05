@@ -291,9 +291,8 @@ O LogiAI busca contribuir para a transformação digital da logística, oferecen
 | Integrante | Responsabilidade |
 |---|---|
 | Thiago da Silva | Full-stack, arquitetura e integração |
-| Integrante 2 | Hardware, embarcados e IoT |
-| Integrante 3 | Data Science e Inteligência Artificial |
-| Integrante 4 | Design, produto e apresentação |
+| Lucas Ferreira | Hardware, embarcados e IoT |
+| Miguel Dias | Data Science e Inteligência Artificial |
 
 ## 📜 Licença
 
